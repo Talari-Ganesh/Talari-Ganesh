@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-B tech , Computer science Engineer<br>In Marwadi university, Rajkot<br>Skilled in java and python  <br>Always learning , exploring 
+🎓B tech , Computer science Engineer<br>🏛️Marwadi university, Rajkot<br>💡Skilled in java and python  <br>✍️Always learning , exploring 
 
 
 # 💻 Tech Stack:
